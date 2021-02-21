@@ -1,0 +1,16 @@
+{
+  "name": "calcite-components-demos",
+  "version": "1.0.0",
+  "description": "calcite-components demos",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Ignoring tests, none found\" && exit 0",
+    "start": "serve -s src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}

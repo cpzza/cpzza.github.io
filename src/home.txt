@@ -1,0 +1,8 @@
+<div>
+  <h1>Calcite Components demos</h1>
+    <ul class="nav">
+    <li>
+      <calcite-link onclick="onNavClick('/calcite-accordion');">calcite-accordion</calcite-link>
+    </li>
+  </ul>
+</div>
